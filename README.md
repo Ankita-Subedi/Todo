@@ -31,4 +31,4 @@ npm run dev
 
 ## Live Preview
 
-View the live app here: https://todo-ten-jet-81.vercel.app/<a href="https://todo-ten-jet-81.vercel.app/">View the live app here</a>
+[Click here to view live](https://todo-ten-jet-81.vercel.app/){:target="_blank"}
