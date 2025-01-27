@@ -1,8 +1,29 @@
-# React + Vite
+# React + Vite Todo Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple todo application built with React and Vite, featuring the ability to add, edit, delete, and toggle todos.
 
-Currently, two official plugins are available:
+## Key Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **App**: Main component managing todos.
+- **TodoContext**: Context for managing todos.
+- **TodoForm**: Component for adding new todos.
+- **TodoItem**: Component for displaying and managing individual todos.
+
+## Local Storage
+
+Todos are persisted in local storage.
+
+## Installation
+
+To set up the project, run the following commands:
+
+```bash
+npm install
+```
+
+## Usage
+
+To run the application, use:
+
+```bash
+npm run dev
