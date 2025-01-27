@@ -4,10 +4,10 @@ This is a simple todo application built with React and Vite, featuring the abili
 
 ## Key Components
 
-- **App**: Main component managing todos.
-- **TodoContext**: Context for managing todos.
-- **TodoForm**: Component for adding new todos.
-- **TodoItem**: Component for displaying and managing individual todos.
+- **App**: The main component managing todos.
+- **TodoContext**: A context for managing todos.
+- **TodoForm**: A component for adding new todos.
+- **TodoItem**: A component for displaying and managing individual todos.
 
 ## Local Storage
 
@@ -15,7 +15,7 @@ Todos are persisted in local storage.
 
 ## Installation
 
-To set up the project, run the following commands:
+To set up the project, run the following command:
 
 ```bash
 npm install
@@ -27,6 +27,8 @@ To run the application, use:
 
 ```bash
 npm run dev
+```
 
 ## Live Preview
-[View the live app here](https://todo-ten-jet-81.vercel.app/)
+
+View the live app here: https://todo-ten-jet-81.vercel.app/<a href="https://todo-ten-jet-81.vercel.app/">View the live app here</a>
