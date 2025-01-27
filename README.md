@@ -27,3 +27,6 @@ To run the application, use:
 
 ```bash
 npm run dev
+
+## Live Preview
+[View the live app here](https://todo-ten-jet-81.vercel.app/)
